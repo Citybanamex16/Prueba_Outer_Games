@@ -5,6 +5,6 @@ Carlos: Conectado 3 Junio.
 
 Alex: ¿Por qué Banamex?
 
-Yael: hola
+Yael: hola, mi rama
 
 Sebas: ya quede
