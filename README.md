@@ -6,3 +6,5 @@ Carlos: Conectado 3 Junio.
 Alex: ¿Por qué Banamex?
 
 Yael: hola
+
+Sebas: ya quede
