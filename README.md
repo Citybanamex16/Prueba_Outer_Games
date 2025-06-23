@@ -8,3 +8,5 @@ Alex: ¿Por qué Banamex?
 Yael: hola
 
 Sebas: ya quede
+
+Andy: hola 
